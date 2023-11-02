@@ -41,7 +41,7 @@ package exam_abstract_class;
 	        System.out.println("내용: " + emailbody);
 	    }
 
-	    // Getters and setters for senderAddr and emailbody
+	    
 	}
 
 	class SmsSender extends MessageSender {
